@@ -1,3 +1,4 @@
 - 👋 Hi, I’m @robal69
-- 👀 I’m interested in Game, discord.js Developing
+- 👀 I’m interested in Java Plugin, discord.js Developing
 - 🌱 I’m currently learning C# & Python
+- 👀 Beginner java plugin developer
